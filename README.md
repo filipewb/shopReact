@@ -11,4 +11,8 @@ Para funcionar, precisa ter um AVD Manager baixado e instalado, sugiro o "Pixel 
 
 2 - Executar no cmd: 
 
-`npx react-native run-android`
+`expo start`
+
+Ou
+
+Abrir via celular o app ExpoGo e scanear o QRCode.
